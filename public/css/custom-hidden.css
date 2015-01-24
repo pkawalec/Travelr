@@ -1,0 +1,20 @@
+html, body{
+	width:100%;
+	height:100%;
+	min-width: 300px;
+	min-height: 400px;
+	}
+body{background-color:#000;}
+body {
+	background-image:url(../../test/ireland-map.jpg);
+	background-repeat:no-repeat;
+	background-size:contain;
+	hbackground-position:center;
+
+}
+
+#desktop{
+	color:rgba(255,255,255,0.8);
+}
+nav{
+	background-color:rgba(115,225,153,0.5)!important;}
